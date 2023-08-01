@@ -1,3 +1,6 @@
+## Summary
+AI-PetMatcher is a machine learning-based application that matches people with their ideal pets based on their preferences and lifestyle. It uses AI techniques to analyze user input and suggest suitable pets from a database of available pets.
+
 # AI-PetMatcher: Improving Pet Adoptions through AI
 
 Summary
