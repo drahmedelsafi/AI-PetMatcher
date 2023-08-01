@@ -1,4 +1,4 @@
-# AI-PetMatcher AI-PetMatcher: Improving Pet Adoptions through AI
+# AI-PetMatcher: Improving Pet Adoptions through AI
 
 Summary
 AI-PetMatcher is an AI-powered platform that matches potential adopters with shelter animals based on their preferences and lifestyle, increasing the chances of successful pet adoptions.
